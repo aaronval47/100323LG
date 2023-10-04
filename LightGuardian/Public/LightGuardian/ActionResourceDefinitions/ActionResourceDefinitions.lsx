@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hcfc19a91g50aag4078gb97fg5ee80d7727d2" version="1"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdbcf3f16g1486g49e2g9564gbd9d5020c571" version="1"/> A text tied to the .loca file
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="MagicPoint"/> What you will be referring to in your code
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/> Rest = Long Rest, ShortRest = ShortRest
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
+                    <attribute id="UUID" type="guid" value="1af16f51-7725-4a3c-ac7f-1e95f43e510a"/> UUID for the Resource, give it a new one
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h093bf5cagd788g40b9g968cg90710fc22905" version="1"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0838f016g6616g40cagb31ege5e56baa1044" version="1"/> A text tied to the .loca file
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="ValorCharge"/> What you will be referring to in your code
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/> Rest = Long Rest, ShortRest = ShortRest
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
+                    <attribute id="UUID" type="guid" value="52a2f0ad-fe14-4dd0-85c3-d9df358a8182"/> UUID for the Resource, give it a new one
+                </node>               
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h179cea17g057eg4d26g865fgbf345df5fffa" version="1"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee8d4f8agca00g411dgbb14gf6e774445891" version="1"/> A text tied to the .loca file
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="WisdomCharge"/> What you will be referring to in your code
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/> Rest = Long Rest, ShortRest = ShortRest
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
+                    <attribute id="UUID" type="guid" value="5452262c-c89e-47fc-8229-4196cd8c8474"/> UUID for the Resource, give it a new one
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h14987a8bg50e4g45a9gaec8gb33df7e0dcd9" version="1"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5ee891b0g1814g4552gbe13gd45c068e93c8" version="1"/> A text tied to the .loca file
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="StalwardCharge"/> What you will be referring to in your code
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/> Rest = Long Rest, ShortRest = ShortRest
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
+                    <attribute id="UUID" type="guid" value="6bfc9b77-179e-4f15-922b-867d27a06d89"/> UUID for the Resource, give it a new one
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

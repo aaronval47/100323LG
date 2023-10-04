@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h050f4c93g7f3bg492dg97dfgc00b341e1764" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd4f97113g6928g4468g8377g3b9a838f35ec" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="54b1599d-e206-4343-896c-6ed165bb3e5d"/>
+                    <attribute id="Type" type="FixedString" value="BaseWielder"/>
+                    <attribute id="UUID" type="guid" value="cf5e4808-fd46-432b-a776-22d7671cc6fc"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hfcb77486g2558g48a4gb0b8g35571166dc90" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfe44a3a5gda21g472dg9d8dg6f938710da19" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="e334a483-9838-4ef3-a66e-f255ad4d396e"/>
+                    <attribute id="Type" type="FixedString" value="ShieldWielder"/>
+                    <attribute id="UUID" type="guid" value="1116fdf6-a484-4f32-91e9-60725b62343b"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h05becaa3g65c8g4da4gaff6gc1521d4d5a22" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb3d43125ge317g4f5fga480g16f9e1c8ccd0" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9afa3279-0afd-4246-b2e5-29f1aa5158b8"/>
+                    <attribute id="Type" type="FixedString" value="SwordWielder"/>
+                    <attribute id="UUID" type="guid" value="71202007-31fe-42d7-ad21-40cb64d283c2"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcc6542b1g0526g48c1gad3eg72212a202648" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h90f59b61g763dg4811g8c38gd4fcc663b53c" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="da551af9-24da-47c2-a23a-1be6f0eecdbb"/>
+                    <attribute id="Type" type="FixedString" value="WandWielder"/>
+                    <attribute id="UUID" type="guid" value="efd404e8-ec8b-438b-8d55-2c0e5270e2aa"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc42a6c5bgbfc2g46dfg8581g1f859390af39" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7f5b8e8ag4ed9g44d0ga2ecgdfd279276c02" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="54b1599d-e206-4343-896c-6ed165bb3e5d"/>
+                    <attribute id="Type" type="FixedString" value="HeartForm"/>
+                    <attribute id="UUID" type="guid" value="db6eb49b-bf46-4562-8526-fb2491684bcd"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

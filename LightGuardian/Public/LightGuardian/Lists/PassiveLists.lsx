@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="206"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList"> Shield Fighting Styles
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting"/>
+                    <attribute id="UUID" type="guid" value="bdc42237-ddfd-47cd-bff8-c751c56eee5b"/> 
+                </node>
+                <node id="PassiveList"> Sword Fighting Styles
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_TwoWeaponFighting"/>
+                    <attribute id="UUID" type="guid" value="f21e4b8e-66a8-441d-b651-895a42efea77"/> 
+                </node>
+                <node id="PassiveList"> Seeker Fighting Styles
+                    <attribute id="Passives" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="7f6a1ac7-f613-4a98-987a-6961a5e10ea1"/> 
+                </node>
+                <node id="PassiveList"> Keyblade Shape
+                    <attribute id="Passives" type="LSString" value="LG_SummonLongsword,LG_SummonGreatsword,LG_SummonRapier,LG_SummonWarhammer,LG_SummonStaff"/>
+                    <attribute id="UUID" type="guid" value="4c47c880-0fc0-4a4e-be0c-f38dd59a2215"/>
+                </node>
+                <node id="PassiveList"> Shield Elements Novice Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aero_SpellList,LG_Blizzard_SpellList,LG_Cure_SpellList,LG_Esuna_SpellList,LG_Fire_SpellList,LG_Thunder_SpellList"/>
+                    <attribute id="UUID" type="guid" value="b82cb631-dce3-4c29-99a2-805f176574cd"/>
+                </node>
+                <node id="PassiveList"> Shield Elements Novice Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Stop_SpellList,LG_Esuna_SpellList,LG_Magnet_SpellList,LG_Reflect_SpellList,LG_Spark_SpellList"/>
+                    <attribute id="UUID" type="guid" value="3b837ae8-5589-41b3-818e-20b9b63c92cd"/>
+                </node>
+                <node id="PassiveList"> Sword Elements Novice Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aero_SpellList,LG_Blizzard_SpellList,LG_Cure_SpellList,LG_Fire_SpellList,LG_Reflect_SpellList,LG_Spark_SpellList,LG_Thunder_SpellList"/>
+                    <attribute id="UUID" type="guid" value="6a101f9b-a3fa-4255-a5ac-19d990a50234"/>
+                </node>
+                <node id="PassiveList"> Sword Elements Novice Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Aero_SpellList,LG_Blizzard_SpellList,LG_Cure_SpellList,LG_Fire_SpellList,LG_Reflect_SpellList,LG_Spark_SpellList,LG_Thunder_SpellList"/>
+                    <attribute id="UUID" type="guid" value="53bfa22c-772f-4df2-ad9f-fd85438506bd"/>
+                </node>
+                <node id="PassiveList"> Wand Elements Novice Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aero_SpellList,LG_Blizzard_SpellList,LG_Cure_SpellList,LG_Esuna_SpellList,LG_Fire_SpellList,LG_Gravity_SpellList,LG_Magnet_SpellList,LG_Reflect_SpellList,LG_Spark_SpellList,LG_Stop_SpellList,LG_Thunder_SpellList"/>
+                    <attribute id="UUID" type="guid" value="60b9eec4-b114-4625-94d9-4c296de32173"/>
+                </node>
+                <node id="PassiveList"> Wand Elements Novice Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Aero_SpellList,LG_Blizzard_SpellList,LG_Cure_SpellList,LG_Esuna_SpellList,LG_Fire_SpellList,LG_Gravity_SpellList,LG_Magnet_SpellList,LG_Reflect_SpellList,LG_Spark_SpellList,LG_Stop_SpellList,LG_Thunder_SpellList"/>
+                    <attribute id="UUID" type="guid" value="7479e6cb-f1a0-44b0-a7e4-932dc9252c83"/>
+                </node>
+                <node id="PassiveList"> Shield Elements Advanced Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Esunara_SpellList,LG_Fira_SpellList,LG_Magnera_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="8d00e5e1-4b32-4d9e-be4f-1414adf38024"/>
+                </node>
+                <node id="PassiveList"> Shield Elements Advanced Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Esunara_SpellList,LG_Fira_SpellList,LG_Magnera_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="66db4892-c9ad-4c9b-9094-779e50b5370f"/>
+                </node>
+                <node id="PassiveList"> Sword Elements Advanced Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Fira_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="a1fae93e-fe60-4bca-9f27-903100c0efc9"/>
+                </node>
+                <node id="PassiveList"> Sword Elements Advanced Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Fira_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="8795a693-4a6c-4b66-b5b6-6a78a1796cfc"/>
+                </node>
+                <node id="PassiveList"> Wand Elements Advanced Elements
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Esunara_SpellList,LG_Fira_SpellList,LG_Gravira_SpellList,LG_Magnera_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Stopra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="61dd0826-9b13-4592-bcc1-56820fd9ce8e"/>
+                </node>
+                <node id="PassiveList"> Wand Elements Advanced Alternate
+                    <attribute id="Passives" type="LSString" value="LG_Aerora_SpellList,LG_Blizzara_SpellList,LG_Curara_SpellList,LG_Esunara_SpellList,LG_Fira_SpellList,LG_Gravira_SpellList,LG_Magnera_SpellList,LG_Reflectra_SpellList,LG_Sparkra_SpellList,LG_Stopra_SpellList,LG_Thundara_SpellList"/>
+                    <attribute id="UUID" type="guid" value="d4687487-9eba-4143-9fc4-c50380b6bb9d"/>
+                </node>
+                <node id="PassiveList"> Shield Elements Expert
+                    <attribute id="Passives" type="LSString" value="LG_Curaga_SpellList,LG_Esunaga_SpellList,LG_Reflectga_SpellList,LG_Sparkga_SpellList"/>
+                    <attribute id="UUID" type="guid" value="bb7f0f41-64ec-4281-9833-2438db03233f"/>
+                </node>
+                <node id="PassiveList"> Sword Elements Expert
+                    <attribute id="Passives" type="LSString" value="LG_Blizzaga_SpellList,LG_Firaga_SpellList,LG_Thundaga_SpellList"/>
+                    <attribute id="UUID" type="guid" value="f025fb9b-ec26-4168-81f8-4037a705b6b1"/>
+                </node>
+                <node id="PassiveList"> Wand Elements Expert
+                    <attribute id="Passives" type="LSString" value="LG_Aeroga_SpellList,LG_Blizzaga_SpellList,LG_Firaga_SpellList,LG_Graviga_SpellList,LG_Magnega_SpellList,LG_Reflectga_SpellList,LG_Sparkga_SpellList,LG_Stop_SpellList,LG_Thundaga_SpellList"/>
+                    <attribute id="UUID" type="guid" value="7314a09d-ec54-478d-ab18-932cc3962abd"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

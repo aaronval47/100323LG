@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="406"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription"> Main Class
+                    <attribute id="BaseHp" type="int32" value="12"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_LG_Starter"/> Starting equipment entry from Equipment.txt
+                    <attribute id="Description" type="TranslatedString" handle="h050f4c93g7f3bg492dg97dfgc00b341e1764" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd4f97113g6928g4468g8377g3b9a838f35ec" version="1"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="7"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="BaseWielder"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/> 
+                    <attribute id="ProgressionTableUUID" type="guid" value="54b1599d-e206-4343-896c-6ed165bb3e5d"/> This UUID links the Class to a specific progression table inside Progressions.lsx
+                    <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="79ccc634-0a3c-4680-b34c-ef0493916c29"/> The ID for your class, make a new one
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">shield
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_LG_Shield"/> Starting equipment entry from Equipment.txt
+                    <attribute id="Description" type="TranslatedString" handle="hfcb77486g2558g48a4gb0b8g35571166dc90" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfe44a3a5gda21g472dg9d8dg6f938710da19" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShieldWielder"/>
+                    <attribute id="ParentGuid" type="guid" value="79ccc634-0a3c-4680-b34c-ef0493916c29"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="e334a483-9838-4ef3-a66e-f255ad4d396e"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="11da581c-c566-4568-86b5-9acf6f686420"/>
+                </node>
+                <node id="ClassDescription">sword
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_LG_Sword"/> Starting equipment entry from Equipment.txt
+                    <attribute id="Description" type="TranslatedString" handle="h05becaa3g65c8g4da4gaff6gc1521d4d5a22" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb3d43125ge317g4f5fga480g16f9e1c8ccd0" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShieldWielder"/>
+                    <attribute id="ParentGuid" type="guid" value="79ccc634-0a3c-4680-b34c-ef0493916c29"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="9afa3279-0afd-4246-b2e5-29f1aa5158b8"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="f70e5372-db9b-43f3-9905-9e1d8914ccb1"/>
+                </node>
+                <node id="ClassDescription">wand
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_LG_Wand"/> Starting equipment entry from Equipment.txt
+                    <attribute id="Description" type="TranslatedString" handle="hcc6542b1g0526g48c1gad3eg72212a202648" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h90f59b61g763dg4811g8c38gd4fcc663b53c" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ShieldWielder"/>
+                    <attribute id="ParentGuid" type="guid" value="79ccc634-0a3c-4680-b34c-ef0493916c29"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="da551af9-24da-47c2-a23a-1be6f0eecdbb"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="d587ffd4-9500-46e7-a15f-8058b7d89349"/>
+                </node>				
+            </children>
+        </node>
+    </region>
+</save>

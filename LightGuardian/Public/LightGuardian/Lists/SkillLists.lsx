@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="21"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList"> Class Skills
+                    <attribute id="Skills" type="LSString" value="Athletics, Acrobatics, Arcana, History, Investigation, Perception, Insight, Intimidation, Survival"/> List of skills to choose at CC
+                    <attribute id="UUID" type="guid" value="7d712556-fb68-4826-a294-c652dabcfbc9"/> same as passiveList, make a new UUID and refer to it when selecting skills
+                </node>
+                <node id="SkillList"> Class Skills Wand
+                    <attribute id="Skills" type="LSString" value="Athletics, Acrobatics, Arcana, History, Investigation, Perception, Insight, Intimidation, Survival, Nature, Religion"/> List of skills to choose at CC
+                    <attribute id="UUID" type="guid" value="3a4b5f77-be41-45f2-a1ad-0415a4a7f951"/> same as passiveList, make a new UUID and refer to it when selecting skills
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
